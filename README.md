@@ -8,14 +8,6 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 <br/>
 
----
-
-### 🌐 Link:
-
-<h4> Live Site: https://healthbooker.onrender.com/ </h4>
-
-<br>
-
 ### 🛠️ Tools and technologies used :
 
 <div align=center>
@@ -142,14 +134,6 @@ npm start
 <img src="./client/src/images/notifications.png" alt='notifications'/>
 
 ---
-
-<br/>
-
-### 🛡️ License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-Terms and conditions for use, reproduction and distribution are under the [MIT License](https://opensource.org/license/mit/).
 
 <br/>
 
